@@ -1,0 +1,4 @@
+odoo-addon-component@ git+https://github.com/oca/connector@refs/pull/445/head#subdirectory=setup/component
+odoo-addon-test_component@ git+https://github.com/oca/connector@refs/pull/446/head#subdirectory=setup/test_component
+odoo-addon-component_event@ git+https://github.com/oca/connector@refs/pull/443/head#subdirectory=setup/component_event
+odoo-addon-queue_job@ git+https://github.com/oca/queue@refs/pull/460/head#subdirectory=setup/queue_job
