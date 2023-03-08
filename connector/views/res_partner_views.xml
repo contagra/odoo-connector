@@ -8,7 +8,6 @@
             <xpath expr="/form/sheet/notebook" position="inside">
                 <!-- change the invisible attribute to 0 when used
                      in submodules -->
-
                 <page
                     string="Connectors"
                     name="connector"
